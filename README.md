@@ -5,6 +5,8 @@ Landing page interativa de um tênis conceitual em **5 colorways**, feita em um 
 O destaque é **um único tênis 3D que viaja pela página inteira**: você escolhe a cor no carrossel do topo, e esse mesmo par sobe para a seção de tecnologia, gira a cada etapa, atravessa uma "tempestade" das próprias peças e pousa exatamente no card dele na loja.
 
 > Projeto conceitual de portfólio. Sem afiliação, patrocínio ou endosso da Nike, Inc. Nike e o Swoosh são marcas da Nike, Inc. Nenhuma compra é processada no site.
+>
+> entre no Site e veja o resultado: https://artur-tereza.github.io/apresenta-o-nike/
 
 ---
 
